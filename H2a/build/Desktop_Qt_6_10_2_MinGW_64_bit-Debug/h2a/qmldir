@@ -1,0 +1,6 @@
+module h2a
+typeinfo apph2a.qmltypes
+prefer :/qt/qml/h2a/
+Main 254.0 Main.qml
+depends QtQuick
+
